@@ -10,7 +10,7 @@ Hello there! 👋 Welcome to the wonderful world of team C241-PR565! Here at Tea
 
 ## 🐘 Project Overview
 
-EleMental is a Health Chatbot with Personalized Coping Techniques. This project proposes an android application featuring a physical and mental health chatbot powered by machine learning. The chatbot will offer anonymous support, identify user daily habits, emotions through analysis, and suggest personalized techniques and tips based on the analysis. This application aims to improve accessibility to health resources and empower users to manage their well-being.
+EleMental is a Health Chatbot with Personalized Coping Techniques. This project proposes an android application featuring a mental health chatbot powered by machine learning. The chatbot will offer anonymous support, identify user daily habits, emotions through analysis, and suggest personalized techniques and tips based on the analysis. This application aims to improve accessibility to health resources and empower users to manage their well-being.
 
 ## 🌍 Why It Matters
 
@@ -20,13 +20,13 @@ The rising need for accessible physical and mental health support, coupled with 
 
 Let us introduce you to the masterminds behind this groundbreaking project. Each team member brings their unique expertise, unwavering dedication, and a shared passion for making a real impact.
 
-|            Member                  | Bangkit ID |        Path        |                  Contacts              |
-| :--------------------------------: | :--------: | :----------------: | :------------------------------------: |
-| Timoteus Romi Hasoloan Simanjuntak | M2195F1854 | Mobile Development |                 [LinkedIn]()           |
-|         Naily Syafaaturohmah       | M2224W2059 |  Machine Learning  |                 [LinkedIn]()           |
-|               Vincent              | A7006H0543 |  Machine Learning  |                 [LinkedIn]()           |
-|        Billy Achmad Bachrudin      | C2014J1378 |   Cloud Computing  |                 [LinkedIn]()           |
-|      Naufal Adi Prawira Siregar    | C2224W2085 |   Cloud Computing  |                 [LinkedIn]()           |
+|            Member                  | Bangkit ID |        Path        |                                                             Contacts                                                                |
+| :--------------------------------: | :--------: | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| Timoteus Romi Hasoloan Simanjuntak | M2195F1854 | Mobile Development |            [LinkedIn](https://www.linkedin.com/in/timoteus-simanjuntak-393466277/) and [GitHub](https://github.com/timoteusmnjtk)   |
+|         Naily Syafaaturohmah       | M2224W2059 |  Machine Learning  |            [LinkedIn](https://www.linkedin.com/in/naily-syafaaturohmah-841537241/) and [GitHub](https://github.com/naee-asy)        |
+|               Vincent              | A7006H0543 |  Machine Learning  |            [LinkedIn]() and [GitHub]()                                                                                              |
+|        Billy Achmad Bachrudin      | C2014J1378 |   Cloud Computing  |            [LinkedIn](https://www.linkedin.com/in/billy-achmad-bachrudin-48a678141/) and [GitHub](https://github.com//billy-svg)|
+|      Naufal Adi Prawira Siregar    | C2224W2085 |   Cloud Computing  |            [LinkedIn](https://www.linkedin.com/in/naufal-adi-prawira-siregar-7aab64104/) and [GitHub](https://github.com/adi31891)  |
 
 ## 🚀 Project Branches
 
