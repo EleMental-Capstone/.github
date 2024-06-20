@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app_logo.jpeg" alt="Project Logo" width="300">
+  <img src="app_logo.png" alt="Project Logo" width="300">
 </div>
 
 # C241-PR565 - Bangkit 2024 Capstone Team Project (EleMental)
