@@ -22,11 +22,11 @@ Let us introduce you to the masterminds behind this groundbreaking project. Each
 
 |            Member                  | Bangkit ID |        Path        |                                                             Contacts                                                                |
 | :--------------------------------: | :--------: | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-| Timoteus Romi Hasoloan Simanjuntak | M2195F1854 | Mobile Development |            [LinkedIn](https://www.linkedin.com/in/timoteus-simanjuntak-393466277/) and [GitHub](https://github.com/timoteusmnjtk)   |
-|         Naily Syafaaturohmah       | M2224W2059 |  Machine Learning  |            [LinkedIn](https://www.linkedin.com/in/naily-syafaaturohmah-841537241/) and [GitHub](https://github.com/naee-asy)        |
-|               Vincent              | A7006H0543 |  Machine Learning  |            [LinkedIn]() and [GitHub]()                                                                                              |
-|        Billy Achmad Bachrudin      | C2014J1378 |   Cloud Computing  |            [LinkedIn](https://www.linkedin.com/in/billy-achmad-bachrudin-48a678141/) and [GitHub](https://github.com//billy-svg)|
-|      Naufal Adi Prawira Siregar    | C2224W2085 |   Cloud Computing  |            [LinkedIn](https://www.linkedin.com/in/naufal-adi-prawira-siregar-7aab64104/) and [GitHub](https://github.com/adi31891)  |
+| Timoteus Romi Hasoloan Simanjuntak | A319D4KY3748 | Mobile Development |            [LinkedIn](https://www.linkedin.com/in/timoteus-simanjuntak-393466277/) and [GitHub](https://github.com/timoteusmnjtk)   |
+|         Naily Syafaaturohmah       | M279D4KX2841 |  Machine Learning  |            [LinkedIn](https://www.linkedin.com/in/naily-syafaaturohmah-841537241/) and [GitHub](https://github.com/naee-asy)        |
+|               Vincent              | M002D4KY1651 |  Machine Learning  |            [LinkedIn](https://www.linkedin.com/in/vincent-67175328a/) and [GitHub](https://github.com/Vynsenn)                                                                                              |
+|        Billy Achmad Bachrudin      | C459D4KY0130 |   Cloud Computing  |            [LinkedIn](https://www.linkedin.com/in/billy-achmad-bachrudin-48a678141/) and [GitHub](https://github.com//billy-svg)|
+|      Naufal Adi Prawira Siregar    | C005D4KY0287 |   Cloud Computing  |            [LinkedIn](https://www.linkedin.com/in/naufal-adi-prawira-siregar-7aab64104/) and [GitHub](https://github.com/adi31891)  |
 
 ## 🚀 Project Branches
 
